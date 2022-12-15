@@ -1,7 +1,8 @@
-# about-me
+# About-me
 
-Name: Angela Liu
+### Name: Angela Liu
 
-School: Highschool Of Telecommunication Arts and Technology
+#### School: Highschool Of Telecommunication Arts and Technology
 
-Email: Angelal8336@hstat.org
+#### Email: Angelal8336@hstat.org
+
