@@ -25,3 +25,10 @@
 * Playing video games
 * Watching youtube
 * Talking :)
+
+#### _Foods I like_:
+
+1. **Rice** (I LOVE RICE)
+2. Pizza
+3. **Sushi** (SUSSSSHIII)
+4. Chicken
