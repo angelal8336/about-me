@@ -32,3 +32,8 @@
 2. Pizza
 3. **Sushi** (SUSSSSHIII)
 4. Chicken
+
+#### _Websites I like:
+
+* [jsbin](https://jsbin.com/?html,output)
+* [wikipedia](https://www.wikipedia.org/)
