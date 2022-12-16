@@ -5,6 +5,24 @@
 
 #### Email: Angelal8336@hstat.org
 
+#### School schedule:
+Period 1: Math
+
+Period 2: SEP (software engineering program)
+
+Period 3: History
+
+Period 4: BHP (Big history project)
+
+Period 5: Science
+
+Period 6: LUNCHHHHHHHHH
+
+Period 7: Dance
+
+Period 8: Spanish
+
+
 ---
 
 # About-Me
@@ -33,7 +51,7 @@
 3. **Sushi** (SUSSSSHIII)
 4. Chicken
 
-#### _Websites I like:
+#### _Websites I like_:
 
 * [jsbin](https://jsbin.com/?html,output)
 * [wikipedia](https://www.wikipedia.org/)
