@@ -1,9 +1,12 @@
 
 ### Name: Angela Liu
 
+#### Bio: I'm a person who loves RICE
+
 #### School: Highschool Of Telecommunication Arts and Technology
 
 #### Email: Angelal8336@hstat.org
+
 
 #### School schedule:
 Period 1: Math
@@ -16,11 +19,13 @@ Period 4: BHP (Big history project)
 
 Period 5: Science
 
-Period 6: LUNCHHHHHHHHH
+**Period 6: LUNCHHHHHHHHH**
 
 Period 7: Dance
 
 Period 8: Spanish
+
+**HOMEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE**
 
 
 ---
@@ -46,10 +51,10 @@ Period 8: Spanish
 
 #### _Foods I like_:
 
-1. **Rice** (I LOVE RICE)
-2. Pizza
-3. **Sushi** (SUSSSSHIII)
-4. Chicken
+1. ##### **Rice** (I LOVE RICE)
+2. ##### Pizza
+3. ##### **Sushi** (SUSSSSHIII)
+4. ##### Chicken
 
 #### _Websites I like_:
 
