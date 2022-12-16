@@ -9,9 +9,19 @@
 
 # About-Me
 
-#### _Games I play_: 
+#### _Games I play_:
 
 1. Valorant
 2. Leauge
 3. Roblox
 4. MANYYYYYY MORRRRRRRRREEEEE
+
+#### _Hobbies_:
+
+* Friends
+  * Hanging out friends
+  * Talking with friends
+  * Messing with my friends
+* Playing video games
+* Watching youtube
+* Talking :)
