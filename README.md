@@ -19,7 +19,7 @@ Period 4: BHP (Big history project)
 
 Period 5: Science
 
-**Period 6: LUNCHHHHHHHHH**
+**Period 6: LUNCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH**
 
 Period 7: Dance
 
